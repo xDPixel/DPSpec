@@ -22,6 +22,3 @@ DPSpec is a Windows application that provides detailed hardware specifications o
 1. Launch the application.
 2. Use the sidebar to navigate between different hardware categories.
 3. Click **Export** to save hardware details to a file.
-
-## Build Instructions
-
